@@ -1,4 +1,4 @@
-# XiNiHa (Cosmo Shin)
+# XiNiHa (Iha Shin)
 
 Hello! I'm a Web developer, especially interested in Front-end Web development and improving its DX.
 
